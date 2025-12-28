@@ -11,5 +11,3 @@
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
 
 <hr/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=damianhorna" />
