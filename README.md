@@ -12,6 +12,4 @@
 
 <hr/>
 
-<a href="https://github.com/damianhorna">
-  <img src="https://github-readme-stats.vercel.app/api?username=damianhorna&count_private=true&show_icons=true&hide=stars" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=damianhorna" />
